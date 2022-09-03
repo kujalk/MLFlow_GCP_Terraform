@@ -1,3 +1,5 @@
+For Blog - https://scripting4ever.wordpress.com/2022/09/03/deploying-mlflow-app-in-gcp-using-terraform/
+
 Pre-PreRequisites
 --------------------
 [A] In Local machine
